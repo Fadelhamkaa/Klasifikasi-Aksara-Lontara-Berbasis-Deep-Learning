@@ -126,4 +126,4 @@ Jika Anda tertarik untuk berdiskusi lebih lanjut, jangan ragu untuk menghubungi 
 
 * **Nama**: [Muhammad Fadel Hamka]
 * **GitHub**: [https://github.com/Fadelhamkaa](https://github.com/Fadelhamkaa)
-* **LinkedIn**: [https://linkedin.com/in/[PROFIL-LINKEDIN-ANDA]](https://linkedin.com/in/[PROFIL-LINKEDIN-ANDA]) *(Pastikan Anda menggunakan link profil LinkedIn yang benar di sini)*
+* **LinkedIn**: [https://linkedin.com/in/[PROFIL-LINKEDIN-ANDA]](https://www.linkedin.com/in/fadelhamka/]) *(Pastikan Anda menggunakan link profil LinkedIn yang benar di sini)*
